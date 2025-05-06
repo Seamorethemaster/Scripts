@@ -636,7 +636,7 @@ order = {
 
 settings = {Settings = settings, Descriptions = descs, Order = order}
 
-
+script = Instance.new("Script",workspace)
 local warn = function(...)
 	warn(":: Adonis ::", ...)
 end
